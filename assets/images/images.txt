@@ -1,0 +1,1 @@
+Images required for the website. You can add your own images as images are static on this website  because only 5 or 6 images are used at most.
