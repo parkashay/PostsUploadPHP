@@ -245,9 +245,6 @@
             margin-bottom:10px;
             text-align:center;
         }
-        .user-table{
-            
-        }
     </style>
 
       </body>
