@@ -115,9 +115,6 @@
                 {
                   echo "<script>M.toast({html: \"Submitted Successfully. Waiting for admin review.\"})</script>";
                 }
-                else{
-                  echo "<script>M.toast({html: \"Unknown Error\"})</script>";
-                }
             }
           ?>
 
@@ -141,7 +138,7 @@
           }
           .scroll-to-top{
            margin-right:50%;
-           transform: translate(50%,0%);
+           transform:translate(100%,0%);
           }
           .herosection{
             display:none;
