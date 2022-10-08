@@ -1,1 +1,4 @@
 This directory contains the database connection to the website.
+database name used : mysite
+username : root 
+password : ""
