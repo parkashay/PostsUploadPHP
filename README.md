@@ -1,6 +1,6 @@
-# quotewebsite
-A mini project - quotes website(dynamic). 
-Feel free to use it anywhere with modifications.
-I've used html, materialize css and php.
+# Posts Upload
+A mini project - for uploading posts(mainly quotes). 
+
+used - html, materialize-css and php,
 MySQL for database.
-use database name 'mysite' to run in localhost and tables 'users' and 'quotes'.
+use database name 'mysite' to run in localhost(Xampp server) and tables 'users' and 'quotes'.
